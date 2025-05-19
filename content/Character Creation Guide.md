@@ -6,11 +6,12 @@
 ## II. Crafting Your Aethorian
 * Starting Level
 * Ancestries/Races in Aethoria 
-    * (Link to: Player Resources/Races/Standard Races in Aethoria.md)
-    * (Link to: Player Resources/Races/Curated Races.md) 
+    * (Link to: Player Resources/Species/Standard Races.md)
+    * (Link to: Player Resources/Species/Additional Races.md) 
 * Classes & Skills
-    * (Link to: Player Resources/Classes/Standard Classes in Aethoria.md)
-    * (Link to: Player Resources/Classes/Curated Subclasses.md)
+    * (Link to: Player Resources/Classes/Standard Classes.md)
+    * (Link to: Player Resources/Classes/Additional Classes.md)
+    * (Link to: Player Resources/Classes/Additional Subclasses.md)
     * (Link to: Player Resources/Classes/Note on Divination & Chronomancy.md)
 
 ## III. Weaving Your Story: Backstory & Connections
