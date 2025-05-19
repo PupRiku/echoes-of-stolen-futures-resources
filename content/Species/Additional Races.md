@@ -1,3 +1,9 @@
 # Additional Races of Dandora
 * [[Rakin]] 
-* *(Space for future curated races)*
+* [[Koira]] 
+* [[Au Ra]] 
+* [[Hrothgar]] 
+* [[Lalafell]] 
+* [[Miqote|Miqo'te]] 
+* [[Roegadyn]] 
+* [[Viera]]
